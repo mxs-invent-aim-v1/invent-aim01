@@ -1,0 +1,18 @@
+{
+  "invoice_number": null,
+  "invoice_date": null,
+  "order_id": null,
+  "seller_gstin": null,
+  "line_items": [],
+  "tax_breakdown": {
+    "cgst_rate": null,
+    "cgst_amount": null,
+    "sgst_rate": null,
+    "sgst_amount": null,
+    "igst_rate": null,
+    "igst_amount": null,
+    "total_tax": null
+  },
+  "grand_total": 0.0,
+  "confidence_score": 0.25
+}

@@ -1,0 +1,37 @@
+{
+  "invoice_number": "FAMA-14307",
+  "invoice_date": "2026-05-18",
+  "order_id": "171-1863367-2510752",
+  "seller_gstin": "29AALCR3173P1ZT",
+  "line_items": [
+    {
+      "name": "Borosil 240ml Latte Tea/Coffee Mug Set | Borosilicate Lightweight Transparent (6pc Set)",
+      "hsn_code": "70134200",
+      "quantity": 1.0,
+      "unit_price": 371.44,
+      "total_price": 371.44,
+      "tax_rate": null,
+      "tax_amount": null
+    },
+    {
+      "name": "AGARO Elite Rechargeable Mini Electric Chopper, Food Grade Bowl, Stainless Steel Blades, Rechargeable, One Touch Operation",
+      "hsn_code": "85094090",
+      "quantity": 1.0,
+      "unit_price": 481.9,
+      "total_price": 481.9,
+      "tax_rate": null,
+      "tax_amount": null
+    }
+  ],
+  "tax_breakdown": {
+    "cgst_rate": null,
+    "cgst_amount": null,
+    "sgst_rate": null,
+    "sgst_amount": null,
+    "igst_rate": 18.0,
+    "igst_amount": 3.75,
+    "total_tax": null
+  },
+  "grand_total": 485.19,
+  "confidence_score": 1.0
+}

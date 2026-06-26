@@ -1,0 +1,28 @@
+{
+  "invoice_number": "MKT-527201494",
+  "invoice_date": "2026-03-17",
+  "order_id": "408-9359190-9258711",
+  "seller_gstin": "29AAICA3918J1ZE",
+  "line_items": [
+    {
+      "name": "DHRUVPRO R385 DC Water/Air Pump 12 V for Boards Compatible with Arduino, ESP8266, Raspberry Pi | B0DZF1YZLB (Water Pump ₹363.56)",
+      "hsn_code": "8507",
+      "quantity": 1.0,
+      "unit_price": 363.56,
+      "total_price": 363.56,
+      "tax_rate": null,
+      "tax_amount": null
+    }
+  ],
+  "tax_breakdown": {
+    "cgst_rate": 9.0,
+    "cgst_amount": null,
+    "sgst_rate": 9.0,
+    "sgst_amount": null,
+    "igst_rate": null,
+    "igst_amount": null,
+    "total_tax": 130.88
+  },
+  "grand_total": 858.0,
+  "confidence_score": 1.0
+}

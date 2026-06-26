@@ -1,0 +1,28 @@
+{
+  "invoice_number": "MKT-91257815",
+  "invoice_date": "2026-05-18",
+  "order_id": "171-7576678-6969944",
+  "seller_gstin": "29AAICA3918J1ZE",
+  "line_items": [
+    {
+      "name": "Traditional Thread's 100% Cotton Large Size Bath Towel | Ultra Soft, Absorbent, Light Weight & Quick Dry Towel for Bath, Travel, Gym, Beach | Towels for bath large size | Cotton Towel | 30 X 60, Set of 3",
+      "hsn_code": "630492",
+      "quantity": 1.0,
+      "unit_price": 360.95,
+      "total_price": 360.95,
+      "tax_rate": null,
+      "tax_amount": 18.05
+    }
+  ],
+  "tax_breakdown": {
+    "cgst_rate": null,
+    "cgst_amount": null,
+    "sgst_rate": null,
+    "sgst_amount": null,
+    "igst_rate": 5.0,
+    "igst_amount": 18.05,
+    "total_tax": 18.05
+  },
+  "grand_total": 379.0,
+  "confidence_score": 1.0
+}

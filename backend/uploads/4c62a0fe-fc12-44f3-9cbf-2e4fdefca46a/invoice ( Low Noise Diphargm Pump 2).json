@@ -1,0 +1,28 @@
+{
+  "invoice_number": "POD-26-321570190",
+  "invoice_date": null,
+  "order_id": "403-3304991-8444310",
+  "seller_gstin": "29AAICA3918J1ZE",
+  "line_items": [
+    {
+      "name": "Cash/Pay on Delivery fee",
+      "hsn_code": null,
+      "quantity": 1.0,
+      "unit_price": 5.93,
+      "total_price": 14.0,
+      "tax_rate": 18.0,
+      "tax_amount": 2.14
+    }
+  ],
+  "tax_breakdown": {
+    "cgst_rate": null,
+    "cgst_amount": null,
+    "sgst_rate": null,
+    "sgst_amount": null,
+    "igst_rate": 18.0,
+    "igst_amount": 2.14,
+    "total_tax": null
+  },
+  "grand_total": 14.0,
+  "confidence_score": 0.9
+}

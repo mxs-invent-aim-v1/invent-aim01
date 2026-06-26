@@ -1,0 +1,28 @@
+{
+  "invoice_number": "XZWS-370",
+  "invoice_date": "2026-05-23",
+  "order_id": "171-0990479-4937149",
+  "seller_gstin": "29AAICA3918J1ZE",
+  "line_items": [
+    {
+      "name": "Burwood Men BWD 275 Brown Leather Formal Shoes-9 UK (BW 276) | B07V1VPCBH ( BW ₹1,522.86 -₹30.46 1 ₹1,492.40 5% IGST ₹74.62 ₹1,567.02",
+      "hsn_code": "64032011",
+      "quantity": 1.0,
+      "unit_price": 1492.4,
+      "total_price": 1567.02,
+      "tax_rate": null,
+      "tax_amount": 74.62
+    }
+  ],
+  "tax_breakdown": {
+    "cgst_rate": null,
+    "cgst_amount": null,
+    "sgst_rate": null,
+    "sgst_amount": null,
+    "igst_rate": 5.0,
+    "igst_amount": 74.62,
+    "total_tax": 74.62
+  },
+  "grand_total": 1567.02,
+  "confidence_score": 1.0
+}

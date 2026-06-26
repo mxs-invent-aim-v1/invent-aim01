@@ -1,0 +1,28 @@
+{
+  "invoice_number": "FWWN-25440",
+  "invoice_date": null,
+  "order_id": "403-3304991-8444310",
+  "seller_gstin": "07AAJCC9783E1Z9",
+  "line_items": [
+    {
+      "name": "GLUN® Low Noise Mini Diaphragm Vacuum Multipurpose Motor Pump, Good Water Flow Rate 1.2-1.4 Liter/Minute | B0F8N3QXB6 ( B0F8N3QXB6 )",
+      "hsn_code": "73181500",
+      "quantity": 1.0,
+      "unit_price": 219.49,
+      "total_price": 518.0,
+      "tax_rate": null,
+      "tax_amount": null
+    }
+  ],
+  "tax_breakdown": {
+    "cgst_rate": null,
+    "cgst_amount": null,
+    "sgst_rate": null,
+    "sgst_amount": null,
+    "igst_rate": 18.0,
+    "igst_amount": -79.02,
+    "total_tax": -53.98
+  },
+  "grand_total": 444.02,
+  "confidence_score": 0.9
+}
