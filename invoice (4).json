@@ -1,0 +1,61 @@
+{
+  "invoice_number": "MKT-91443962",
+  "invoice_date": "2026-05-18",
+  "order_id": "171-7549753-0645961",
+  "platform": "Amazon",
+  "seller_name": "Amazon Seller Services Private Limited",
+  "seller_gstin": null,
+  "seller_address": {
+    "line1": "Flat No. N-503, Venus Parkland society, Vejalpur",
+    "line2": null,
+    "city": "Vejalpur",
+    "state": "Ahmedabad",
+    "pincode": "380051",
+    "country": "India"
+  },
+  "buyer_name": null,
+  "billing_address": {
+    "line1": null,
+    "line2": null,
+    "city": null,
+    "state": null,
+    "pincode": null,
+    "country": "India"
+  },
+  "shipping_address": {
+    "line1": "Flat No. N-503, Venus Parkland society, Vejalpur",
+    "line2": null,
+    "city": "Vejalpur",
+    "state": "Ahmedabad",
+    "pincode": "380051",
+    "country": "India"
+  },
+  "line_items": [
+    {
+      "name": "Lacto Calamine Skin Repair Retinol Face Serum | 30ml | 10% Retinol + Hyaluronic Acid Serum for Face | Gotu Kola | Oily Skin",
+      "description": null,
+      "sku": null,
+      "hsn_code": "33049990",
+      "quantity": 1.0,
+      "unit_price": 386.86,
+      "total_price": 386.86,
+      "tax_rate": 18.0,
+      "tax_amount": 69.64
+    }
+  ],
+  "subtotal": 0.0,
+  "tax_breakdown": {
+    "cgst_rate": null,
+    "cgst_amount": null,
+    "sgst_rate": null,
+    "sgst_amount": null,
+    "igst_rate": 18.0,
+    "igst_amount": 69.64,
+    "cess_amount": null,
+    "total_tax": 69.64
+  },
+  "grand_total": 456.5,
+  "currency": "INR",
+  "payment_method": "AmazonCredit",
+  "confidence_score": 0.933
+}
